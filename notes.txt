@@ -1,0 +1,14 @@
+* Exemplo básico de assert
+* Fazendo vários testes com parametrize
+* Fazendo varios testes com parametrize multiplo
+* Como usar fixtures e porque usar fixtures
+* Diferença prática entre os scopes das fixtures
+* Salvando fixtures no arquivo conftest
+* Usando yield na fixture
+* Como e porque usar marcadores
+* Definindo marcadores no arquivo pytest.ini
+* Definindo duplos marcadores no arquivo pytest.ini
+* Selecionando quais testes usar a partir do marcador (pytest -m "marker_name1 and marker_name2")
+
+
+* Testando exceções

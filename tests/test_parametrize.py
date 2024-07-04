@@ -1,5 +1,5 @@
 import pytest
-from tdd.main import create_user_id, create_user, remove_user, list_users
+from tdd.parametrize import create_user_id, create_user, remove_user, list_users
 
 
 # Example parametrize
